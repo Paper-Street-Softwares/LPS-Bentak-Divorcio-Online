@@ -40,14 +40,14 @@ import { FileText } from "lucide-react";
 const currentYear = new Date().getFullYear();
 
 export const infos = {
-  name: "Castro Advogados Associados",
+  name: "Franciele Bentak",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
-  domain: "divorcio-castro.escritorioespecializado.adv.br", // Sem "www"
+  domain: "divorcio-online.bentakadvespecializada.com.br", // Sem "www"
   phone: {
-    ddd: "66",
-    firstPart: "99248", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "3413", // Apenas os 4 últimos números
+    ddd: "47",
+    firstPart: "99167", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "6707", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
@@ -344,16 +344,15 @@ const content = {
         img: aboutImg,
         alt: "Imagem ilustrativa da Seção Sobre",
       },
-      miniTag: "Castro Advogados Associados",
+      miniTag: "Franciele Bentak Advocacia e Consultoria",
       FirstPart: <span> Por que escolher </span>,
       Destaque: <span className="italic font-light"> nosso escritório?</span>,
       SecondPart: <span></span>,
       subtitle: (
         <p className="text-justify">
-          Fundado em 2019 pela Dra. Geovana Castro da Costa — OAB/MT 27.016/O e
-          atualmente funcionando sob a gestão da Dra. Thanielly Castro Ramos —
-          OAB/MT 27.913/O, nosso compromisso é tornar esse momento mais leve,
-          rápido e seguro para você.
+          Atuo em Direito de Família com foco em divórcio, oferecendo orientação
+          clara para conduzir a separação com segurança jurídica e organização
+          das questões patrimoniais e familiares.
         </p>
       ),
       paragraph: (
