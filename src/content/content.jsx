@@ -858,7 +858,7 @@ const content = {
     //   },
     // },
     footer: {
-      copyrightLine: ` 2019 - ${infos.name} - Todos os direitos reservados`,
+      copyrightLine: ` ${currentYear} - ${infos.name} - Todos os direitos reservados`,
       footerDivulgacaoText: "Gostaria de ter um site como este? Clique aqui",
       midSectionName: "Até mais",
       footerText:
