@@ -132,7 +132,7 @@ const content = {
       SecondPart: <span>— RÁPIDO, SEGURO E SEM SAIR DE CASA</span>,
       subtitle: (
         <p>
-          Resolva seu divórcio com ajuda de Advogado Especialista, tudo pela
+          Resolva seu divórcio com ajuda de Advogada Especialista, tudo pela
           internet, sem conflitos e sem burocracias desnecessárias.
         </p>
       ),
@@ -142,12 +142,12 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: "Falar com Advogado no WhatsApp",
+      ctaButtonText: "Falar com Advogada no WhatsApp",
       ctaButtonTextSecondary: "A_Definir",
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento direto com Advogado",
+        text: "Atendimento direto com Advogada",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
@@ -401,7 +401,7 @@ const content = {
       paragraphModalCta: "Entre em contato",
       titleModal: "A_Definir",
       ctaButtonAriaLabel: "Botão para entrar em contato",
-      ctaButtonText: "Falar diretamente com as Advogadas",
+      ctaButtonText: "Falar diretamente com a Advogada",
       // aboutSocial: {
       //   img: {
       //     img: aboutSocialImg,
